@@ -7,7 +7,7 @@ function Navbar() {
   return (
     <header className='container p-10 mx-auto' >
    
-    <nav className='flex flex-row justify-between'>
+    <nav className='flex flex-row justify-between '>
      <div className='text-xl text-blue-800'>
       Job
     </div>
